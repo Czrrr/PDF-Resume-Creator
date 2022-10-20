@@ -1,0 +1,36 @@
+{
+  "BASIC_INFORMATION":[
+	"Name":{
+	"FirstName":"Czr ",
+	"Surname": "Correo"
+	},
+		"Address":{
+			"Barangay": "Commonwealth",
+			"City": "Quezon City",
+			"Region": "NCR"
+		},
+	"Birthday":{
+		"Month":"June",
+		"Date": "10",
+		"Year":"2000"
+		},
+	"Age":"22",
+	"Email":"czrcorreoo@gmail.com",
+	"Nationality":"Filipino",
+	]
+  "EDUCATIONAL_BACKGROUND":[
+	"Tertiary":{
+		"School":"Polytechnic University of the Philippines",
+		"Year_Graduated":"2017-current"
+		},
+	"Secondary":{
+		"School":"North Fairview Highschool",
+		"Year_Graduated":"2017"
+		},
+	]
+   "SKILLS":{
+	"Computer_Literate":"Visual Basic, C++ , C-Sharp",
+	"Others":"Hardworking"
+	},
+}
+
